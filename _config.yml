@@ -11,9 +11,8 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
+    - name: Publication
       slug: /
-    - name: Work
     - name: Blog
 
 footer:
@@ -22,9 +21,7 @@ footer:
     - name: Email
       value: yourmail@domain.com
       link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+
   follow:
     - name: Twitter
       link: http://twitter.com/YourTwitterUsername
