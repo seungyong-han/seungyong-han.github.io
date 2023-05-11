@@ -23,8 +23,10 @@ footer:
   follow:
     - name: GitHub
       link: https://github.com/seungyong-han
-    - name: Dribbble
+    - name: Youtube
       link: https://www.youtube.com/@HanSeungyong
+    - name: Google Scholar
+      link: https://scholar.google.com/citations?user=fXESAT8AAAAJ&hl=ko
 
 # Build settings
 markdown: kramdown
