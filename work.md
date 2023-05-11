@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: *S.Y. Han, S. K. Kommuri, and Y.S. Jin*, IEEE Transactions on Neural Networks and Learning Systems (Submission).
+    description: S.Y. Han, S. K. Kommuri, and Y.S. Jin, IEEE Transactions on Neural Networks and Learning Systems (Submission).
   - title: My Interest 2
     image:
       src: /assets/img/work/sand.png
