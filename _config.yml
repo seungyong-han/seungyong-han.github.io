@@ -1,7 +1,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: Seungyong Han
 description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -12,7 +12,6 @@ google_analytics: "UA-121636368-3"
 header:
   pages:
     - name: Publication
-      slug: /
     - name: Blog
 
 footer:
