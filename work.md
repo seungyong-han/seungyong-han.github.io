@@ -13,6 +13,7 @@ items:
       src: /assets/img/work/sand.png
       alt: sand
     description: S.Y. Han and S.M. Lee, IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).
+
 ---
 
 This is an example of a "Work" page, displaying your work, your interests, your projects.
