@@ -12,8 +12,8 @@
               <img
                 src="{{ contact_icon_path }}"
                 alt="{{ contact.name | downcase }}"
-              />
-              <a href="{{ contact.link }}" id="{{ contact.name | downcase }}-link">
+              />             
+              <a href="{{ contact.link }}">
                 {% if contact.value and contact.value != "" and contact.value != nil %}
                   {{ contact.value }}
                 {% else %}
