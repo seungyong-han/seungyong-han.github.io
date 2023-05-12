@@ -13,11 +13,6 @@ items:
       src: /assets/img/work/sand.png
       alt: sand
     description: S.Y. Han and S.M. Lee, IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).
-  - title: Restored Action Generative Adversarial Imitation Learning from Observation for Robot Manipulator
-    image:
-      src: /assets/img/work/sand.png
-      alt: sand
-    description: J.C. Park, S.Y. Han, and S.M. Lee, ISA Transactions (2022).
 ---
 
 This is an example of a "Work" page, displaying your work, your interests, your projects.
