@@ -12,13 +12,6 @@
               <img
                 alt="{{ contact.name | downcase }}"
               />             
-              <a href="{{ contact.link }}">
-                {% if contact.value and contact.value != "" and contact.value != nil %}
-                  {{ contact.value }}
-                {% else %}
-                  {{ contact.name }}
-                {% endif %}
-              </a>
             </div>
 
           {% endfor %}
@@ -38,6 +31,7 @@
                 alt="{{ follow.name | downcase }}"
               />
               <a href="{{ follow.link }}">
+                  {{ follow.name }}
               </a>
             </div>
 
