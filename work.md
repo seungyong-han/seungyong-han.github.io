@@ -3,12 +3,12 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: New Results on Sampled-data Synchronization of GRUs using Mismatched Parameters
+  - title: My Interest 1
     image:
       src: /assets/img/work/water.png
       alt: water
     description: S.Y. Han, S. K. Kommuri, and Y.S. Jin, IEEE Transactions on Neural Networks and Learning Systems (Submission).
-  - title: Sampled-data-based Iterative Cost-learning Model Predictive Control for T-S Fuzzy Systems
+  - title: My Interest 2
     image:
       src: /assets/img/work/sand.png
       alt: sand
