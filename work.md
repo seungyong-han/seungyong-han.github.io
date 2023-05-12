@@ -3,7 +3,7 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: My Interest 1
+  - title: New Results on Sampled-data Synchronization of GRUs using Mismatched Parameters
     image:
       src: /assets/img/work/water.png
       alt: water
