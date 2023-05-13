@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Work
+title: Publication
 slug: /work
 items:
   - title: New Results on Sampled-data Synchronization of GRUs using Mismatched Parameters
