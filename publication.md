@@ -10,9 +10,9 @@ ___
 <strong>S.Y. Han</strong>, S. K. Kommuri, and Y.S. Jin  
 *IEEE Transactions on Neural Networks and Learning Systems (Submission).*</li>
 
-**Sampled-data-based Iterative Cost-learning Model Predictive Control for T-S Fuzzy Systems**  
+<li>**Sampled-data-based Iterative Cost-learning Model Predictive Control for T-S Fuzzy Systems**  
 <strong>S.Y. Han</strong> and S.M. Lee  
-*IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).*
+*IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).*</li>
 
 **Restored Action Generative Adversarial Imitation Learning from Observation for Robot Manipulator**  
 J.C. Park, <strong>S.Y. Han</strong>, and S.M. Lee  
