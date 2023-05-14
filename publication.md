@@ -39,13 +39,13 @@ ___
 <br />
 <li>
   <b>Transformed Parameter Dependent Sliding Mode Control for Discrete-time LPV Systems</b><br>
-  S. Singh, <b>S.Y. Han</b>, S.M. Lee<br>
+  S. Singh, <b>S.Y. Han</b>, and S.M. Lee<br>
   <i>IEEE Transactions on Circuits and Systems II: Express Briefs (2021).</i>
   </li>
 <br />
 <li>
   <b>Adaptive Single Input Sliding Mode Control for Hybrid-synchronization of Uncertain Hyperchaotic Lu Systems</b><br>
-  S. Singh, <b>S.Y. Han</b>, S.M. Lee<br>
+  S. Singh, <b>S.Y. Han</b>, and S.M. Lee<br>
   <i>Journal of the Franklin Institute (2021).</i>
   </li>
 <br />
@@ -75,7 +75,7 @@ ___
 <ol>
 <li>
   <b>Event-triggered Controller for Synchronization of Chaotic Neural Networks using Clock-Dependent Lyapunov Functionals</b><br>
-  <b>S.Y. Han</b>, S.M. Lee*, and J.H. Park<br>
+  <b>S.Y. Han</b>, S.M. Lee, and J.H. Park<br>
   <i>13th Asian Control Conference (ASCC), 2022.</i>
   </li>
 <br />
