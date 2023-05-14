@@ -74,7 +74,7 @@ ___
 ___
 <ol>
 <li>
-  <b>Event-triggered Controller for Synchronization of Chaotic Neural Networks using Clock-Dependent Lyapunov Functionals</b><br>  
+  <b>Event-triggered Controller for Synchronization of Chaotic Neural Networks using Clock-Dependent Lyapunov Functionals</b><br>
   <b>S.Y. Han</b>, S.M. Lee*, and J.H. Park<br>  
   <i>13th Asian Control Conference (ASCC), 2022.<\i>
 /li>
