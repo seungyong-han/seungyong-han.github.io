@@ -13,7 +13,7 @@ ___
 <i>IEEE Transactions on Neural Networks and Learning Systems (Submission).<\i>
 /li>
 <br />
-
+<br />
 <li>**Sampled-data-based Iterative Cost-learning Model Predictive Control for T-S Fuzzy Systems**  
 <strong>S.Y. Han</strong> and S.M. Lee  
 *IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).*</li>
