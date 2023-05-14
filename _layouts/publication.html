@@ -9,21 +9,6 @@
       <div class="wrapper">
         <div class="publication">
           {{ content }}
-
-          {% for item in page.items %}
-          <div class="publication-item">
-            <img
-              src="{{ item.image.src | absolute_url }}"
-              alt="{{ item.image.alt }}"
-              class="publication-bubble"
-            />
-            <span class="publication-text">
-              <strong>{{ item.title }}</strong>
-              &mdash;
-              {{ item.description }}
-            </span>
-          </div>
-          {% endfor %}
         </div>
       </div>
     </div>
