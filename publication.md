@@ -15,6 +15,7 @@ ___
 <strong>S.Y. Han</strong> and S.M. Lee  
 *IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).*</li>
 <\ul>
+  
 **Restored Action Generative Adversarial Imitation Learning from Observation for Robot Manipulator**  
 J.C. Park, <strong>S.Y. Han</strong>, and S.M. Lee  
 *ISA Transactions (2022).*
