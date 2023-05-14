@@ -12,7 +12,7 @@ ___
   <b>S.Y. Han</b>, S. K. Kommuri, and Y.S. Jin<br>
   <i>IEEE Transactions on Neural Networks and Learning Systems (Submission).</i>
   </li>
-
+<br />
 <li>
   <b>Sampled-data-based Iterative Cost-learning Model Predictive Control for T-S Fuzzy Systems</b><br>
   <b>S.Y. Han</b> and S.M. Lee<br>
