@@ -99,7 +99,7 @@ ___
   Y.S. Jin, <b>S.Y. Han</b>, E.M. Lee, S.M. Lee, C Shin, and J.P. Yun<br>
   <i>IEEE International Conference on Consumer Electronics (ICCE), 2019.<\i>
 /li>
-<\ol>
+</ol>
   
 <br />
 <br />
