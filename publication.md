@@ -67,7 +67,8 @@ ___
   <i>IEEE Transactions on Fuzzy Systems (2020).</i>
 <br />
 <br />
-<\ol>
+  
+</ol>
 
 ## Conference Publications
 ___
