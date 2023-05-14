@@ -76,25 +76,25 @@ ___
 <li>
   <b>Event-triggered Controller for Synchronization of Chaotic Neural Networks using Clock-Dependent Lyapunov Functionals</b><br>
   <b>S.Y. Han</b>, S.M. Lee*, and J.H. Park<br>
-  <i>13th Asian Control Conference (ASCC), 2022.<\i>
+  <i>13th Asian Control Conference (ASCC), 2022.</i>
   </li>
 <br />
 <li>
   <b>Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs</b><br>
   Y.S. Jin, <b>S.Y. Han</b>, J.C Park, and, SM Lee<br>
-  <i>IEEE Symposium Series on Computational Intelligence (SSCI), 2019.<\i>
+  <i>IEEE Symposium Series on Computational Intelligence (SSCI), 2019.</i>
   </li>
 <br />
 <li>
   <b>Constrained H Infinity Control for Active Suspension Systems with Aperiodic Sampling: a Looped Functional Approach</b><br>
   <b>S.Y. Han</b>, S.M. Lee, H.Y. Jung, and J.H. Park<br>
-  <i>6th International Conference on Control, Decision and Information Technologies (CoDIT), 2019.<\i>
+  <i>6th International Conference on Control, Decision and Information Technologies (CoDIT), 2019.</i>
     </li>
 <br />
 <li>
   <b>Development of Autonomous Driving Systems Using State Estimator with Multi-rate Sampled-data</b><br>
   Y.S. Jin, <b>S.Y. Han</b>, E.M. Lee, S.M. Lee, C Shin, and J.P. Yun<br>
-  <i>IEEE International Conference on Consumer Electronics (ICCE), 2019.<\i>
+  <i>IEEE International Conference on Consumer Electronics (ICCE), 2019.</i>
   </li>
 <br />
 </ol>
