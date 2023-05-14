@@ -6,9 +6,9 @@ slug: /publication
 
 ## Journal Publications
 ___
-<li>**New Results on Sampled-data Synchronization of GRUs using Mismatched Parameters**</li> 
+<li>**New Results on Sampled-data Synchronization of GRUs using Mismatched Parameters** 
 <strong>S.Y. Han</strong>, S. K. Kommuri, and Y.S. Jin  
-*IEEE Transactions on Neural Networks and Learning Systems (Submission).*
+*IEEE Transactions on Neural Networks and Learning Systems (Submission).*</li>
 
 **Sampled-data-based Iterative Cost-learning Model Predictive Control for T-S Fuzzy Systems**  
 <strong>S.Y. Han</strong> and S.M. Lee  
