@@ -14,7 +14,6 @@ header:
     - name: Home
       slug: /
     - name: Work
-    - name: Blog
 
 footer:
   show_powered_by: true
@@ -22,9 +21,6 @@ footer:
     - name: Email
       value: yourmail@domain.com
       link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
 
   follow:
     - name: GoogleScholar
