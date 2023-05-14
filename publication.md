@@ -7,44 +7,44 @@ slug: /publication
 ## Journal Publications
 ___
 **New Results on Sampled-data Synchronization of GRUs using Mismatched Parameters**  
-*S.Y. Han, S. K. Kommuri, and Y.S. Jin*    
-IEEE Transactions on Neural Networks and Learning Systems (Submission).
+<strong>S.Y. Han</strong>, S. K. Kommuri, and Y.S. Jin
+*IEEE Transactions on Neural Networks and Learning Systems (Submission).*
 
 **Sampled-data-based Iterative Cost-learning Model Predictive Control for T-S Fuzzy Systems**  
-*S.Y. Han and S.M. Lee*    
-IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).
+<strong>S.Y. Han</strong> and S.M. Lee
+*IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).*
 
 **Restored Action Generative Adversarial Imitation Learning from Observation for Robot Manipulator**  
-*J.C. Park, S.Y. Han, and S.M. Lee*  
-ISA Transactions (2022).
+J.C. Park, <strong>S.Y. Han</strong>, and S.M. Lee
+*ISA Transactions (2022).*
 
 **Regional Sampled-data Synchronization of Chaotic Neural Networks Using Piecewise-Continuous Delay Dependent Lyapunov Functional**  
-*S.Y. Han, S.K. Kommuri, O.M. Kwon, and S.M. Lee*  
-Applied Mathematics and Computation (2022).
+<strong>S.Y. Han</strong>, S.K. Kommuri, O.M. Kwon, and S.M. Lee
+*Applied Mathematics and Computation (2022).*
 
 **Polynomially Parameter Dependent Exponential Stabilization of Sampled-data LPV Systems**  
-*H.I. Jung, S.Y. Han, S. Singh, and S.M. Lee*  
-Applied Mathematics and Computation (2021).
+H.I. Jung, <strong>S.Y. Han</strong>, S. Singh, and S.M. Lee
+*Applied Mathematics and Computation (2021).*
 
 **Transformed Parameter Dependent Sliding Mode Control for Discrete-time LPV Systems**  
-*S. Singh, S.Y. Han, S.M. Lee*    
-IEEE Transactions on Circuits and Systems II: Express Briefs (2021).
+S. Singh, <strong>S.Y. Han</strong>, S.M. Lee
+*IEEE Transactions on Circuits and Systems II: Express Briefs (2021).*
 
 **Adaptive Single Input Sliding Mode Control for Hybrid-synchronization of Uncertain Hyperchaotic Lu Systems**  
-*S. Singh, S.Y. Han, S.M. Lee*
-Journal of the Franklin Institute (2021).
+S. Singh, <strong>S.Y. Han</strong>, S.M. Lee
+*Journal of the Franklin Institute (2021).*
 
 **Sampled-parameter Dependent Stabilization for Linear Parameter Varying Systems with Asynchronous Parameter Sampling**  
-*S.Y. Han and S.M. Lee*
-International Journal of Robust and Nonlinear Control (2021).
+<strong>S.Y. Han</strong> and S.M. Lee
+*International Journal of Robust and Nonlinear Control (2021).*
 
 **External Torque Estimation using Higher-order Sliding Mode Observer for Robot Manipulators**  
-*S.K. Kommuri, S.Y. Han, and S.M. Lee*   
-IEEE/ASME Transactions on Mechatronics (2021).
+S.K. Kommuri, <strong>S.Y. Han</strong>, and S.M. Lee
+*IEEE/ASME Transactions on Mechatronics (2021).*
 
 **Affine Transformed IT2 Fuzzy Event-triggered Control under Deception Attacks**  
-*S.Y. Han, S.K. Kommuri, and S.M. Lee*   
-IEEE Transactions on Fuzzy Systems (2020). 
+<strong>S.Y. Han</strong>, S.K. Kommuri, and S.M. Lee
+*IEEE Transactions on Fuzzy Systems (2020).*
 <br />
 <br />
 ## Conference Publications
