@@ -6,6 +6,7 @@ slug: /publication
 
 ## Journal Publications
 ___
+<ul>
 <li>**New Results on Sampled-data Synchronization of GRUs using Mismatched Parameters** 
 <strong>S.Y. Han</strong>, S. K. Kommuri, and Y.S. Jin  
 *IEEE Transactions on Neural Networks and Learning Systems (Submission).*</li>
@@ -13,7 +14,7 @@ ___
 <li>**Sampled-data-based Iterative Cost-learning Model Predictive Control for T-S Fuzzy Systems**  
 <strong>S.Y. Han</strong> and S.M. Lee  
 *IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).*</li>
-
+<\ul>
 **Restored Action Generative Adversarial Imitation Learning from Observation for Robot Manipulator**  
 J.C. Park, <strong>S.Y. Han</strong>, and S.M. Lee  
 *ISA Transactions (2022).*
