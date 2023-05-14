@@ -10,8 +10,8 @@ ___
 <li>
   <b>New Results on Sampled-data Synchronization of GRUs using Mismatched Parameters</b><br>
   <b>S.Y. Han</b>, S. K. Kommuri, and Y.S. Jin<br>
-  <i>IEEE Transactions on Neural Networks and Learning Systems (Submission).<\i>
-/li>
+  <i>IEEE Transactions on Neural Networks and Learning Systems (Submission).
+
 <br />
 <br />
 <li>
