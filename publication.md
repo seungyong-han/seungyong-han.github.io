@@ -81,7 +81,7 @@ ___
 <br />
 <li>
   <b>Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs</b><br>
-  Y.S. Jin, <b>S.Y. Han</b>, J.C Park, and, SM Lee<br>
+  Y.S. Jin, <b>S.Y. Han</b>, J.C Park, and SM Lee<br>
   <i>IEEE Symposium Series on Computational Intelligence (SSCI), 2019.</i>
   </li>
 <br />
