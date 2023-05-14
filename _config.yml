@@ -16,7 +16,6 @@ header:
     - name: Work
 
 footer:
-  show_powered_by: true
   contact:
     - name: Email
       value: yourmail@domain.com
