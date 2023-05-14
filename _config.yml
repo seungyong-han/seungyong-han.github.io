@@ -22,6 +22,9 @@ footer:
     - name: Email
       value: seungyong.han92@gmail.com
       link: mailto:seungyong.han92@gmail.com
+    - name: WeChat
+      value: YourWeChatUsername
+      link: "#"
 
   follow:
     - name: GoogleScholar
