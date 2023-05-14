@@ -34,37 +34,37 @@ ___
 <li>
   <b>Polynomially Parameter Dependent Exponential Stabilization of Sampled-data LPV Systems</b><br>
   H.I. Jung, <b>S.Y. Han</b>, S. Singh, and S.M. Lee<br>
-  <i>Applied Mathematics and Computation (2021).
+  <i>Applied Mathematics and Computation (2021).</i>
 <br />
 <br />
 <li>
   <b>Transformed Parameter Dependent Sliding Mode Control for Discrete-time LPV Systems</b><br>
   S. Singh, <b>S.Y. Han</b>, S.M. Lee<br>
-  <i>IEEE Transactions on Circuits and Systems II: Express Briefs (2021).
+  <i>IEEE Transactions on Circuits and Systems II: Express Briefs (2021).</i>
 <br />
 <br />
 <li>
   <b>Adaptive Single Input Sliding Mode Control for Hybrid-synchronization of Uncertain Hyperchaotic Lu Systems</b><br>
   S. Singh, <b>S.Y. Han</b>, S.M. Lee<br>
-  <i>Journal of the Franklin Institute (2021).
+  <i>Journal of the Franklin Institute (2021).</i>
 <br />
 <br />
 <li>
   <b>Sampled-parameter Dependent Stabilization for Linear Parameter Varying Systems with Asynchronous Parameter Sampling</b><br>
   <b>S.Y. Han</b> and S.M. Lee<br>
-  <i>International Journal of Robust and Nonlinear Control (2021).
+  <i>International Journal of Robust and Nonlinear Control (2021).</i>
 <br />
 <br />
 <li>
   <b>External Torque Estimation using Higher-order Sliding Mode Observer for Robot Manipulators</b><br>
   S.K. Kommuri, <b>S.Y. Han</b>, and S.M. Lee<br>
-  <i>IEEE/ASME Transactions on Mechatronics (2021).
+  <i>IEEE/ASME Transactions on Mechatronics (2021).</i>
 <br />
 <br />
 <li>
   <b>Affine Transformed IT2 Fuzzy Event-triggered Control under Deception Attacks</b><br>  
   <b>S.Y. Han</b>, S.K. Kommuri, and S.M. Lee<br>  
-  <i>IEEE Transactions on Fuzzy Systems (2020).
+  <i>IEEE Transactions on Fuzzy Systems (2020).</i>
 <br />
 <br />
 <\ol>
