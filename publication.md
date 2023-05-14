@@ -17,13 +17,13 @@ ___
   <b>Sampled-data-based Iterative Cost-learning Model Predictive Control for T-S Fuzzy Systems</b><br>
   <b>S.Y. Han</b> and S.M. Lee<br>
   <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).</i>
-<br />
+  </li>
 <br />
 <li>
   <b>Restored Action Generative Adversarial Imitation Learning from Observation for Robot Manipulator</b><br>
   J.C. Park, <b>S.Y. Han</b>, and S.M. Lee<br>
   <i>ISA Transactions (2022).</i>
-<br />
+  </li>
 <br />
 <li>
   <b>Regional Sampled-data Synchronization of Chaotic Neural Networks Using Piecewise-Continuous Delay Dependent Lyapunov Functional</b><br>
