@@ -22,13 +22,13 @@ ___
 <li>
   <b>Restored Action Generative Adversarial Imitation Learning from Observation for Robot Manipulator</b><br>
   J.C. Park, <b>S.Y. Han</b>, and S.M. Lee<br>
-  <i>ISA Transactions (2022).
+  <i>ISA Transactions (2022).</i>
 <br />
 <br />
 <li>
   <b>Regional Sampled-data Synchronization of Chaotic Neural Networks Using Piecewise-Continuous Delay Dependent Lyapunov Functional</b><br>
   <b>S.Y. Han<b>, S.K. Kommuri, O.M. Kwon, and S.M. Lee<br>
-  <i>Applied Mathematics and Computation (2022).
+  <i>Applied Mathematics and Computation (2022).</i>
 <br />
 <br />
 <li>
