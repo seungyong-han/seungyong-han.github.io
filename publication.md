@@ -45,12 +45,16 @@ S.K. Kommuri, <strong>S.Y. Han</strong>, and S.M. Lee
 **Affine Transformed IT2 Fuzzy Event-triggered Control under Deception Attacks**  
 <strong>S.Y. Han</strong>, S.K. Kommuri, and S.M. Lee
 *IEEE Transactions on Fuzzy Systems (2020).*
+
+**Event-triggered Controller for Synchronization of Chaotic Neural Networks using Clock-Dependent Lyapunov Functionals**
+<strong>S.Y. Han</strong>, S.M. Lee*, and J.H. Park
+*13th Asian Control Conference (ASCC), 2022.*
 <br />
 <br />
+
 ## Conference Publications
 ___
 **Event-triggered Controller for Synchronization of Chaotic Neural Networks using Clock-Dependent Lyapunov Functionals**
-
 <strong>S.Y. Han</strong>, S.M. Lee*, and J.H. Park
 *13th Asian Control Conference (ASCC), 2022.*
 
