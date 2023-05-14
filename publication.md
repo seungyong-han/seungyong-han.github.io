@@ -8,8 +8,8 @@ slug: /publication
 ___
 <ol>
 <li>
-<strong>New Results on Sampled-data Synchronization of GRUs using Mismatched Parameters</strong>
-<strong>S.Y. Han</strong>, S. K. Kommuri, and Y.S. Jin  
+<b>New Results on Sampled-data Synchronization of GRUs using Mismatched Parameters</b>  
+<b>S.Y. Han</b>, S. K. Kommuri, and Y.S. Jin  
 <em>IEEE Transactions on Neural Networks and Learning Systems (Submission).<\em>
 /li>
 
