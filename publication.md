@@ -19,4 +19,4 @@ ___
   <b>S.Y. Han</b> and S.M. Lee<br>
   <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).<\i>
 /li>
-<\ol>
+</ol>
