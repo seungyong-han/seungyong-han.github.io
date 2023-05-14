@@ -16,7 +16,7 @@ ___
 <li>
   <b>Sampled-data-based Iterative Cost-learning Model Predictive Control for T-S Fuzzy Systems</b><br>
   <b>S.Y. Han</b> and S.M. Lee<br>
-  <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).
+  <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).</i>
 <br />
 <br />
 <li>
