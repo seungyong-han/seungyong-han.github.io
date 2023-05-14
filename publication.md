@@ -46,23 +46,20 @@ S.K. Kommuri, <strong>S.Y. Han</strong>, and S.M. Lee
 <strong>S.Y. Han</strong>, S.K. Kommuri, and S.M. Lee
 *IEEE Transactions on Fuzzy Systems (2020).*
 
-**Event-triggered Controller for Synchronization of Chaotic Neural Networks using Clock-Dependent Lyapunov Functionals**
-<strong>S.Y. Han</strong>, S.M. Lee*, and J.H. Park
-*13th Asian Control Conference (ASCC), 2022.*
 <br />
 <br />
 
 ## Conference Publications
 ___
-**Event-triggered Controller for Synchronization of Chaotic Neural Networks using Clock-Dependent Lyapunov Functionals**
+**Event-triggered Controller for Synchronization of Chaotic Neural Networks using Clock-Dependent Lyapunov Functionals**  
 <strong>S.Y. Han</strong>, S.M. Lee*, and J.H. Park
 *13th Asian Control Conference (ASCC), 2022.*
 
-**Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs**
+**Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs**  
 Y.S. Jin, <strong>S.Y. Han</strong>, J.C Park, and, SM Lee
 *IEEE Symposium Series on Computational Intelligence (SSCI), 2019.*
 
-**Constrained H Infinity Control for Active Suspension Systems with Aperiodic Sampling: a Looped Functional Approach**
+**Constrained H Infinity Control for Active Suspension Systems with Aperiodic Sampling: a Looped Functional Approach**  
 <strong>S.Y. Han</strong>, S.M. Lee, H.Y. Jung, and J.H. Park
 *6th International Conference on Control, Decision and Information Technologies (CoDIT), 2019.*
 
