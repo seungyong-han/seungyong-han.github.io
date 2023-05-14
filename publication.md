@@ -50,6 +50,7 @@ S.K. Kommuri, <strong>S.Y. Han</strong>, and S.M. Lee
 ## Conference Publications
 ___
 **Event-triggered Controller for Synchronization of Chaotic Neural Networks using Clock-Dependent Lyapunov Functionals**
+
 <strong>S.Y. Han</strong>, S.M. Lee*, and J.H. Park
 *13th Asian Control Conference (ASCC), 2022.*
 
