@@ -6,7 +6,7 @@ slug: /publication
 
 ## Journal Publications
 ___
-**New Results on Sampled-data Synchronization of GRUs using Mismatched Parameters**  
+<li>**New Results on Sampled-data Synchronization of GRUs using Mismatched Parameters**</li> 
 <strong>S.Y. Han</strong>, S. K. Kommuri, and Y.S. Jin  
 *IEEE Transactions on Neural Networks and Learning Systems (Submission).*
 
