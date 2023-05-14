@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-ddI am a senior researcher at Korea Atomic Energy Research Institute (KAERI). My research interests are in the areas of deep learning and control theory.
+I am a senior researcher at Korea Atomic Energy Research Institute (KAERI). My research interests are in the areas of deep learning and control theory.
 </p>
 
 <p>
