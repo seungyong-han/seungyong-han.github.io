@@ -20,8 +20,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: seungyong.han92@gmail.com
-      link: mailto:seungyong.han92@gmail.com
+      value: yourmail@domain.com
+      link: mailto:yourmail@domain.com
     - name: WeChat
       value: YourWeChatUsername
       link: "#"
