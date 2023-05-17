@@ -97,16 +97,16 @@
  * Site footer
  */
 .site-footer {
-  border-top: 2px solid $grey-color-light;
+  border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
 
   @include media-query($on-mobile) {
-    padding-top: 12px;
+    padding-top: 10px;
   }
 }
 
 .footer-heading {
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: $spacing-unit / 2;
 }
 
