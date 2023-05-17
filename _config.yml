@@ -22,12 +22,13 @@ footer:
       link: mailto:seungyong.han92@gmail.com
 
   follow:
-    - name: GoogleScholar
-      link: https://scholar.google.com/citations?user=fXESAT8AAAAJ&hl=ko
-    - name: YouTube
-      link: https://www.youtube.com/@HanSeungyong
     - name: GitHub
       link: https://github.com/seungyong-han
+    - name: YouTube
+      link: https://www.youtube.com/@HanSeungyong
+    - name: Google Scholar
+      link: https://scholar.google.com/citations?user=fXESAT8AAAAJ&hl=ko
+    
 
 
 # Build settings
