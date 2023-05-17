@@ -18,7 +18,7 @@ Moreover, I have participated in R&D projects related to a multi-degree of freed
 </p>
 
 <p>
-Please find my CV<a href="https://seungyong-han.github.io/assets/CV-Han.pdf">
+  Please find my <a href="https://seungyong-han.github.io/assets/CV-Han.pdf">CV</a>
 </p>
 ___
 **External Torque Estimation Experiments**  
