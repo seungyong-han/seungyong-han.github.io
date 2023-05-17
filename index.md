@@ -17,6 +17,9 @@ During my PhD at Kyungpook National University (KNU), I worked with Prof. <a hre
 Moreover, I have participated in R&D projects related to a multi-degree of freedom manipulator. In the project, I developed <a href="https://ieeexplore.ieee.org/abstract/document/9382115">Luenberger's type sliding mode observer design</a> method for the external torque estimation. This method is used to estimate an external torque acting on the manipulator without any torque sensors. 
 </p>
 
+<p>
+Please find my CV<a href="https://seungyong-han.github.io/assets/CV-Han.pdf">
+</p>
 ___
 **External Torque Estimation Experiments**  
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/VS7IVB8Q-JY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
