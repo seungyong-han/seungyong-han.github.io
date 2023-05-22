@@ -22,49 +22,49 @@ ___
 <li>
   <b>Restored Action Generative Adversarial Imitation Learning from Observation for Robot Manipulator</b><br>
   J.C. Park, <b>S.Y. Han</b>, and S.M. Lee<br>
-  <i>ISA Transactions (2022).</i>
+  <i>ISA Transactions, 2022.</i>
   </li>
 <br />
 <li>
   <b>Regional Sampled-data Synchronization of Chaotic Neural Networks Using Piecewise-Continuous Delay Dependent Lyapunov Functional</b><br>
   <b>S.Y. Han</b>, S.K. Kommuri, O.M. Kwon, and S.M. Lee<br>
-  <i>Applied Mathematics and Computation (2022).</i>
+  <i>Applied Mathematics and Computation, 2022.</i>
   </li>
 <br />
 <li>
   <b>Polynomially Parameter Dependent Exponential Stabilization of Sampled-data LPV Systems</b><br>
   H.I. Jung, <b>S.Y. Han</b>, S. Singh, and S.M. Lee<br>
-  <i>Applied Mathematics and Computation (2021).</i>
+  <i>Applied Mathematics and Computation, 2021.</i>
   </li>
 <br />
 <li>
   <b>Transformed Parameter Dependent Sliding Mode Control for Discrete-time LPV Systems</b><br>
   S. Singh, <b>S.Y. Han</b>, and S.M. Lee<br>
-  <i>IEEE Transactions on Circuits and Systems II: Express Briefs (2021).</i>
+  <i>IEEE Transactions on Circuits and Systems II: Express Briefs, 2021.</i>
   </li>
 <br />
 <li>
   <b>Adaptive Single Input Sliding Mode Control for Hybrid-synchronization of Uncertain Hyperchaotic Lu Systems</b><br>
   S. Singh, <b>S.Y. Han</b>, and S.M. Lee<br>
-  <i>Journal of the Franklin Institute (2021).</i>
+  <i>Journal of the Franklin Institute, 2021.</i>
   </li>
 <br />
 <li>
   <b>Sampled-parameter Dependent Stabilization for Linear Parameter Varying Systems with Asynchronous Parameter Sampling</b><br>
   <b>S.Y. Han</b> and S.M. Lee<br>
-  <i>International Journal of Robust and Nonlinear Control (2021).</i>
+  <i>International Journal of Robust and Nonlinear Control, 2021.</i>
   </li>
 <br />
 <li>
   <b>External Torque Estimation using Higher-order Sliding Mode Observer for Robot Manipulators</b><br>
   S.K. Kommuri, <b>S.Y. Han</b>, and S.M. Lee<br>
-  <i>IEEE/ASME Transactions on Mechatronics (2021).</i>
+  <i>IEEE/ASME Transactions on Mechatronics, 2021.</i>
   </li>
 <br />
 <li>
   <b>Affine Transformed IT2 Fuzzy Event-triggered Control under Deception Attacks</b><br>  
   <b>S.Y. Han</b>, S.K. Kommuri, and S.M. Lee<br>  
-  <i>IEEE Transactions on Fuzzy Systems (2020).</i>
+  <i>IEEE Transactions on Fuzzy Systems, 2020.</i>
   </li>
 <br />
   
