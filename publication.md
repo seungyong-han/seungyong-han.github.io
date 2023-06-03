@@ -7,7 +7,7 @@ slug: /publication
 ## Journal Publications
 ___
 <ol>
-<li>
+<!-- <li>
   <b>New Results on Sampled-data Synchronization of GRUs using Mismatched Parameters</b><br>
   <b>S.Y. Han</b>, S. K. Kommuri, and Y.S. Jin<br>
   <i>IEEE Transactions on Neural Networks and Learning Systems (Submission).</i>
@@ -18,7 +18,7 @@ ___
   <b>S.Y. Han</b> and S.M. Lee<br>
   <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).</i>
   </li>
-<br />
+<br /> -->
 <li>
   <b>Restored Action Generative Adversarial Imitation Learning from Observation for Robot Manipulator</b><br>
   J.C. Park, <b>S.Y. Han</b>, and S.M. Lee<br>
