@@ -4,7 +4,7 @@ slug: /publication
 
 ---
 
-## Journal Publications1
+## Journal Publications
 ___
 <ol>
 <!-- <li>
