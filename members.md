@@ -16,7 +16,7 @@ ___
 	<a href="https://scholar.google.com/citations?user=PeXR8ZYAAAAJ&hl=en/">this paper</a> for further details.
 	</tr>
 </tbody>
-</table>
+</table><br>
 
 <table style="border: 1px solid transparent;">
 <tbody>
