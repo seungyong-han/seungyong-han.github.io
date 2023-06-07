@@ -34,7 +34,7 @@ ___
 <tbody>
 <tr>
 <td style="text-align:justify;width: 500px; border: 1px solid transparent">
-	<img align="left" src="/assets/img/members/jongcheon.jfif" style="border: 12px solid transparent;" width="100"> 
+	<img align="left" src="/assets/img/members/jongcheon.jfif" style="border: 10px solid transparent;" width="120"> 
 	Jongcheon Park worked both on hardware and theory. Firstly, he implemented the first version of the state estimator and the low level controller. Afterwards, he extended the LMPC theory to handle repetitive tasks. Please refer to 
 	<a href="https://scholar.google.com/citations?user=PeXR8ZYAAAAJ&hl=en/">this paper</a> for further details.
 	</tr>
