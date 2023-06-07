@@ -14,7 +14,7 @@ header:
     - name: Home
       slug: /
     - name: Publication
-    - name: Team&nbsp;Members
+    - name: Team Members
 
 footer:
   contact:
