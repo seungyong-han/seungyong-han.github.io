@@ -8,7 +8,7 @@ slug: /members
 ## Team Members
 ___
 
-<table style="border: 1px solid transparent;">
+<!-- <table style="border: 1px solid transparent;">
 <tbody>
 <tr>
 <td style="text-align:justify;width: 500px; border: 1px solid transparent">
@@ -44,4 +44,4 @@ ___
 <!-- 6. 코무리
 7. 싱
 8. 구오 
- -->
+ --> -->
