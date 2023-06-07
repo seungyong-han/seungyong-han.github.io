@@ -1,5 +1,6 @@
 ---
 layout: members
+title: Team Members
 slug: /members
 
 ---
