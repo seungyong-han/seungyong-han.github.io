@@ -1,8 +1,8 @@
 ---
-layout: publication
-slug: /publication
+layout: members
+slug: /members
 
 ---
 
-## Journal Publications
+## Team Members
 ___
