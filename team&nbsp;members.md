@@ -1,6 +1,6 @@
 ---
-layout: Team Members
-slug: /Team Members
+layout: team&nbsp;members
+slug: /team&nbsp;members
 
 ---
 
