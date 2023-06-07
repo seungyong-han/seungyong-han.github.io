@@ -14,7 +14,7 @@ header:
     - name: Home
       slug: /
     - name: Publication
-    - name: Blog
+    - name: Members
 
 footer:
   contact:
