@@ -7,10 +7,10 @@ slug: /members
 ## Members
 ___
 
-<table style="border: 1px solid transparent;">
+<!-- <table style="border: 1px solid transparent;"> -->
 <tbody>
 <tr>
-<td style="text-align:justify;width: 500px; border: 1px solid transparent">
+<!-- <td style="text-align:justify;width: 500px; border: 1px solid transparent"> -->
 	<img align="left" src="/assets/img/members/yongsik.jfif" style="border: 10px solid transparent;" width="100"> 
 	Yongsik Jin worked both on hardware and theory. Firstly, he implemented the first version of the state estimator and the low level controller. Afterwards, he extended the LMPC theory to handle repetitive tasks. Please refer to 
 	<a href="https://scholar.google.com/citations?user=PeXR8ZYAAAAJ&hl=en/">this paper</a> for further details.
