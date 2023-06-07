@@ -13,21 +13,16 @@ ___
   J.C. Park, <b>S.Y. Han</b>, and S.M. Lee<br>
   </li>
 <br />
-<li>
- 
  <li>
   <img align="left" src="/assets/img/members/Hyein.jfif" style="border: 10px solid transparent;" width="100"><br>
   J.C. Park, <b>S.Y. Han</b>, and S.M. Lee<br>
   </li>
 <br />
-<li>
- 
  <li>
   <img align="left" src="/assets/img/members/jongcheon.jfif" style="border: 10px solid transparent;" width="100"><br>
   J.C. Park, <b>S.Y. Han</b>, and S.M. Lee<br>
   </li>
 <br />
-<li>
 
 <!-- 6. 코무리
 7. 싱
