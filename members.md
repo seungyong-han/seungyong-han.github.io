@@ -13,7 +13,7 @@ ___
 <img align="left" src="/assets/img/members/yongsik.jfif" style="border: 10px solid transparent;" width="100">
 
 2. 정혜인
-<img align="left" src="/assets/img/members/hyein.jfif" style="border: 10px solid transparent;" width="100">
+<img align="left" src="/assets/img/members/Hyein.jfif" style="border: 10px solid transparent;" width="100">
 
 4. 박종천 
 <img align="left" src="/assets/img/members/jongcheon.jfif" style="border: 10px solid transparent;" width="100">
