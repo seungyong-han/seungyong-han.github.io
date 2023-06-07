@@ -1,7 +1,6 @@
 ---
-layout: members
-title: Members
-slug: /members
+layout: Team Members
+slug: /Team Members
 
 ---
 
