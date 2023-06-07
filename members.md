@@ -1,10 +1,10 @@
 ---
-layout: team&nbsp;members
-slug: /team&nbsp;members
+layout: members
+slug: /members
 
 ---
 
-## Team Members
+## Members
 ___
 
 <table style="border: 1px solid transparent;">
