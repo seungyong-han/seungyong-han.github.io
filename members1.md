@@ -22,7 +22,7 @@ ___
 <tbody>
 <tr>
 <td style="text-align:justify;width: 500px; border: 1px solid transparent">
-	<img align="left" src="/assets/img/members/Hyein.jfif" style="border: 12px solid transparent;" width="100"> 
+	<img align="left" src="/assets/img/members/Hyein.jfif" style="border: 10px solid transparent;" width="100"> 
 	Hyein Jung is pursuing her Ph.D from Kyungpook National University in Korea. During the master degree, she proposed the new analysis <a href="https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=PeXR8ZYAAAAJ&citation_for_view=PeXR8ZYAAAAJ:u5HHmVD_uO8C">method</a> for networked delay system. She is currently focusing on making a serial elastic actuator system and developing a external torque estimation method.
 </tr>
 </tbody>
