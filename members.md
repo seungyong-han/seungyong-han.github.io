@@ -20,13 +20,9 @@ ___
 <br>
 
 <table style="border: 1px solid transparent;">
-<tbody>
-<tr>
 <td style="text-align:justify;width: 500px; border: 1px solid transparent">
 	<img align="left" src="/assets/img/members/jongcheon.jfif" style="border: 10px solid transparent;" width="100"> 
 	Jongcheon Park is working as an engineer at Korea Institute of Machinery & Materials. He has advanced data (such as encoder, camera, and LiDAR). processing skills for embedded control systems. Also, he developed the imitation learning <a href="https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=zSzvEmkAAAAJ&sortby=pubdate&citation_for_view=zSzvEmkAAAAJ:Y0pCki6q_DkC">method</a> for industrial manipulators.
-</tr>
-</tbody>
 </table>
 
 <!-- 6. 코무리
