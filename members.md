@@ -6,7 +6,16 @@ slug: /members
 
 ## Members
 ___
-
+<table style="border: 1px solid transparent;">
+<tbody>
+<tr>
+<td style="text-align:justify;width: 500px; border: 1px solid transparent">
+	<img align="left" src="/assets/img/members/Hyein.jfif" style="border: 10px solid transparent;" width="100"> 
+	Max (<a href="https://www.linkedin.com/in/maximilian-brunner-847a89a6/">Maximilian Brunner</a>) worked both on hardware and theory. Firstly, he implemented the first version of the state estimator and the low level controller. Afterwards, he extended the LMPC theory to handle repetitive tasks. Please refer to 
+	<a href="https://ieeexplore.ieee.org/abstract/document/8264027/">this paper</a> for further details.
+</tr>
+</tbody>
+</table>
 
 	Yongsik Jin is working as a senior researcher at Electronics and Telecommunications Research Institute in Korea. His major research topic is to predict a future state of control systems by using deep neural networks with time series data. Please refer to <a href="https://scholar.google.co.kr/citations?hl=ko&user=Xe_fqcwAAAAJ&view_op=list_works&sortby=pubdate">his research works</a> for further details.
 <br>
