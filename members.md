@@ -7,7 +7,6 @@ slug: /members
 ## Members
 ___
 <table style="border: 1px solid transparent;">
-<tbody>
 <td style="text-align:justify;width: 700px; border: 1px solid transparent">
 	<img align="left" src="/assets/img/members/yongsik.jfif" style="border: 10px solid transparent;" width="100"> 
 	Yongsik Jin is working as a senior researcher at Electronics and Telecommunications Research Institute in Korea. His major research topic is to predict a future state of control systems by using deep neural networks with time series data. Please refer to <a href="https://scholar.google.co.kr/citations?hl=ko&user=Xe_fqcwAAAAJ&view_op=list_works&sortby=pubdate">his research works</a> for further details.
