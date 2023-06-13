@@ -10,7 +10,7 @@ ___
 <tbody>
 <tr>
 <td style="text-align:justify;width: 500px; border: 1px solid transparent">
-	<img align="left" src="/assets/img/members/Hyein.jfif" style="border: 10px solid transparent;" width="100"> 
+	<img align="left" src="/assets/img/members/Yongsik.jfif" style="border: 10px solid transparent;" width="100"> 
 	Max (<a href="https://www.linkedin.com/in/maximilian-brunner-847a89a6/">Maximilian Brunner</a>) worked both on hardware and theory. Firstly, he implemented the first version of the state estimator and the low level controller. Afterwards, he extended the LMPC theory to handle repetitive tasks. Please refer to 
 	<a href="https://ieeexplore.ieee.org/abstract/document/8264027/">this paper</a> for further details.
 </tr>
