@@ -12,8 +12,8 @@ ___
   <b>S.Y. Han</b>, X.Y. Guo, and S.K. Kommuri<br>
   <i>IEEE Transactions on Automation Science and Engineering (Revision).</i>
   </li>
-<br />
-<li>-->
+<br />-->
+<li>
   <b>Data-Driven Ensemble Optimal Compensation Control for Partially Known Delayed and Persistently Disturbed Nonlinear Systems</b><br>
   X.Y. Guo, C.Z. Zhang, H. Zhang, <b>S.Y. Han</b>, S.K. Kommuri, and Z.P. Wang<br>
   <i>Journal of the Franklin Institute, 2024.</i>
