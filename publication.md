@@ -7,18 +7,24 @@ slug: /publication
 ## Journal Publications
 ___
 <ol>
-<!-- <li>
-  <b>New Results on Sampled-data Synchronization of GRUs using Mismatched Parameters</b><br>
-  <b>S.Y. Han</b>, S. K. Kommuri, and Y.S. Jin<br>
-  <i>IEEE Transactions on Neural Networks and Learning Systems (Submission).</i>
+<!--<li>
+  <b>Learning-based MPC of Sampled-Data Systems using Neural Ordinary Differential Equations</b><br>
+  <b>S.Y. Han</b>, X.Y. Guo, and S.K. Kommuri<br>
+  <i>IEEE Transactions on Automation Science and Engineering (Revision).</i>
+  </li>
+<br />
+<li>-->
+  <b>Data-Driven Ensemble Optimal Compensation Control for Partially Known Delayed and Persistently Disturbed Nonlinear Systems</b><br>
+  X.Y. Guo, C.Z. Zhang, H. Zhang, <b>S.Y. Han</b>, S.K. Kommuri, and Z.P. Wang<br>
+  <i>Journal of the Franklin Institute, 2024.</i>
   </li>
 <br />
 <li>
-  <b>Sampled-data-based Iterative Cost-learning Model Predictive Control for T-S Fuzzy Systems</b><br>
-  <b>S.Y. Han</b> and S.M. Lee<br>
-  <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems (Under Review).</i>
+  <b>Novel Criteria of Sampled-Data Synchronization Controller Design for Gated Recurrent Unit Neural Networks under Mismatched Parameters</b><br>
+  <b>S.Y. Han</b>, S.K. Kommuri, and Y.S. Jin<br>
+  <i>Neural Networks, 2024.</i>
   </li>
-<br /> -->
+<br />
 <li>
   <b>Restored Action Generative Adversarial Imitation Learning from Observation for Robot Manipulator</b><br>
   J.C. Park, <b>S.Y. Han</b>, and S.M. Lee<br>
